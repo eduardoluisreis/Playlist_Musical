@@ -10,3 +10,8 @@ Será atualizado e aceito sugestões a ajuda de codificação para fins didátic
 
 
 
+<p align="center">
+    <img width="1024" heigth="500" src="assets/playlist.gif">
+</p>
+
+ 
